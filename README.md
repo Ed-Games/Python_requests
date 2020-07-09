@@ -39,3 +39,6 @@ No Linux e MacOS:
 
 Lembre-se de ativar sempre que quiser programar e verificar se o interprete Python da sua IDE esta usando a env ;)
 
+### Obs: para a colsulta ao clima é necessaria uma biblioteca chamada googletrans, veja como instalar e utilizar no link abaixo:
+-> https://evaldowolkers.wordpress.com/2018/12/12/traducao-de-texto-com-python-e-googletrans/ 
+
